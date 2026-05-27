@@ -1,0 +1,44 @@
+name: sos_app
+description: Smart Silent SOS App
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  # LOCATION
+  geolocator: ^11.0.0
+
+  # PERMISSIONS
+  permission_handler: ^11.3.1
+
+  # OPEN MAPS / CALL / SMS
+  url_launcher: ^6.2.5
+
+  # GOOGLE MAP
+  google_maps_flutter: ^2.5.3
+
+  # SHAKE DETECTION
+  shake: ^3.0.0
+
+  # VOICE RECOGNITION
+  speech_to_text: ^7.4.0
+
+  # DARK MODE STORAGE
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true

@@ -30,7 +30,7 @@ This project is developed for safety purposes, especially for emergencies where 
 ## 📸 Application Screenshots
 
 ### Home Screen
-!IMG_20260606_192553.jpg
+IMG_20260606_192553.jpg
 
 This is the main interface of the Smart Silent SOS application.
 

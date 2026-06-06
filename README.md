@@ -27,7 +27,22 @@ This project is developed for safety purposes, especially for emergencies where 
 1. Clone this repository
 2. Run `flutter pub get`
 3. Use `flutter run` to start app
+## 📸 Application Screenshots
 
+### Home Screen
+![Home Screen](IMG_20260606_192553.jpg)
+
+This is the main interface of the Smart Silent SOS application.
+
+### SOS Activation Screen
+![SOS Screen](Screenshot_2026-06-06-19-20-15-09.png)
+
+Users can trigger emergency alerts from this screen.
+
+### Alert Confirmation Screen
+![Alert Screen](Screenshot_2026-06-06-19-20-29-06.png)
+
+The application confirms that the SOS alert has been sent successfully.
 
 ## 👨‍💻 Developer
 Kamali P
